@@ -1,0 +1,15 @@
+<div>
+     <h2> Форма доступа </h2>
+      <label for="login">фио:</lable>
+<input type="text" name="login" id="login">
+   <br/> 
+<label for="pass">адрес проживания :</label>
+  <input type="passworld" name="pass"  id="pass">
+<br/>
+  <label for="pass">Тип болезни :</label>
+  <input type="passworld" name="pass"  id="pass">
+<br/>
+<button id="enter">записаться</button>
+<img srs=
+    
+</div>
